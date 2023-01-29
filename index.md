@@ -1,48 +1,24 @@
-Last login: Thu Jan 19 15:50:15 on ttys000
+Contraseñas bandit:
 
-The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
-MacBook-Pro-de-Alejandro:~ alejandroazurdia$ cd documents/github/webtec
-MacBook-Pro-de-Alejandro:webtec alejandroazurdia$ ls
-Web_lab01		jazurdia.github.io
-MacBook-Pro-de-Alejandro:webtec alejandroazurdia$ cd jazurdia.github.io/
-MacBook-Pro-de-Alejandro:jazurdia.github.io alejandroazurdia$ nano index.md
+lvl 1:  NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+lvl 2:  rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+lvl 3:  aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+lvl 4:  2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+lvl 5:  lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+lvl 6:  P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
+lvl 7:  z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
+lvl 8:  TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+lvl 9:  EN632PlfYiZbn3PhVK3XOGSlNInNE00t
+lvl 10: G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
+lvl 11: 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
+lvl 12: JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
+lvl 13: wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
+lvl 14: fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
+lvl 15: jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
+lvl 16: JQttfApK4SeyHwDlI9SXGR50qclOAil1
+lvl 17: VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e
+lvl 18: hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
+lvl 19: awhqfNnAbc1naukrpqDYcF95h7HoMTrC
+lvl 20: VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-  GNU nano 2.0.6              File: index.md                                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                  [ New File ]
-^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Page ^K Cut Text  ^C Cur Pos
-^X Exit      ^J Justify   ^W Where Is  ^V Next Page ^U UnCut Text^T To Spell
+Por Alejandro Azurdia 21242
